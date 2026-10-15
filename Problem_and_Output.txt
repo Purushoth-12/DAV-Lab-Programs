@@ -1,0 +1,42 @@
+DAV LAB PROGRAM: HISTOGRAM AND SCATTER PLOT
+
+Problem Statement:
+Write a Python program using pandas and matplotlib to create a histogram showing the distribution of student marks and a scatter plot showing the relationship between study hours and marks.
+
+Sample Dataset:
+ Study Hours  Marks
+           1     60
+           2     65
+           3     70
+           4     72
+           5     78
+           6     80
+           7     84
+           8     86
+           9     90
+          10     95
+
+Expected Console Output:
+DAV Lab: Histogram and Scatter Plot
+
+Dataset:
+ Study Hours  Marks
+           1     60
+           2     65
+           3     70
+           4     72
+           5     78
+           6     80
+           7     84
+           8     86
+           9     90
+          10     95
+
+Output graphs saved as histogram.png and scatter_plot.png
+
+Graph Output:
+1. Histogram of Student Marks — shows the distribution of marks.
+2. Study Hours vs Marks — shows how marks change with study hours.
+
+Result:
+The program displays a histogram and a scatter plot successfully.
