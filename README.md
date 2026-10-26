@@ -50,7 +50,7 @@ The graphs below are included in this repository. GitHub will display this image
 3. Print the dataset.
 4. Create and display a histogram of marks.
 5. Create and display a scatter plot of study hours against marks.
-6. Save the graphs as image files.
+6. Save the graphs as image files .
 
 ## ✅ Result
 The histogram and scatter plot are generated successfully using Python.
